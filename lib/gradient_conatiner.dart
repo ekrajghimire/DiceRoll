@@ -29,7 +29,17 @@ class GradientContainer extends StatelessWidget {
               ),
             ),
           ),
-          ElevatedButton(onPressed: () {}, child: const Text('Roll Dice'))
+          Container(
+            width: 150,
+            height: 50,
+            child: ElevatedButton(
+              onPressed: () {},
+              style: ElevatedButton.styleFrom(
+                  textStyle: const TextStyle(
+                      fontSize: 18.0, fontWeight: FontWeight.bold)),
+              child: const Text('Roll Dice'),
+            ),
+          )
         ],
       ),
     );

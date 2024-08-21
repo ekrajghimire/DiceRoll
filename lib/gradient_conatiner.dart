@@ -21,7 +21,10 @@ class GradientContainer extends StatelessWidget {
       child: Center(
         child: Padding(
           padding: const EdgeInsets.all(111.0),
-          child: Image.asset('assets/images/dice1.png'),
+          child: Image.asset(
+            'assets/images/dice1.png',
+            width: 200,
+          ),
         ),
       ),
     );

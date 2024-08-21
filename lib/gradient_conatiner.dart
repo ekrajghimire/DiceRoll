@@ -19,7 +19,10 @@ class GradientContainer extends StatelessWidget {
         end: endAlignment,
       )),
       child: Center(
-        child: Image.asset('/assets/images/dice1.png'),
+        child: Padding(
+          padding: const EdgeInsets.all(111.0),
+          child: Image.asset('assets/images/dice1.png'),
+        ),
       ),
     );
   }

@@ -1,6 +1,6 @@
-# rolldice
+# Roll Dice
 
-A new Flutter project.
+A new simple Flutter project with clean and optimal code.
 
 ## Preview
 

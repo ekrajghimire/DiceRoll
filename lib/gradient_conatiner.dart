@@ -20,7 +20,7 @@ class GradientContainer extends StatelessWidget {
         begin: startAlignment,
         end: endAlignment,
       )),
-      child: DiceRoller(),
+      child: const DiceRoller(),
     );
   }
 }

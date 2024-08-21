@@ -6,6 +6,10 @@ A new simple Flutter project with clean and optimal code.
 
 <img src="assets/preview/home.png" height= 600>
 
+## Try yourself 😉
+### [Click me: Roll Dice](https://dice-roll-one-omega.vercel.app)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

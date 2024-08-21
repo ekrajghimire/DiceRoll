@@ -19,7 +19,7 @@ class DiceRollState extends State<DiceRoll> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const StyleText(),
+        title: const StyleText('Roll Dice'),
         backgroundColor: Colors.indigo.shade900,
       ),
       body: const GradientContainer(),

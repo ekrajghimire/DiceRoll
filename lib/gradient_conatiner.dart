@@ -14,10 +14,7 @@ class GradientContainer extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
           gradient: LinearGradient(
-        colors: [
-          Colors.indigo.shade900,
-          Colors.indigo.shade100,
-        ],
+        colors: [color1, color2],
         begin: startAlignment,
         end: endAlignment,
       )),

@@ -22,7 +22,7 @@ class DiceRollState extends State<DiceRoll> {
         title: const StyleText('Roll Dice'),
         backgroundColor: Colors.indigo.shade900,
       ),
-      body: const GradientContainer(),
+      body: GradientContainer(Colors.indigo.shade100, Colors.indigo.shade900),
     );
   }
 }

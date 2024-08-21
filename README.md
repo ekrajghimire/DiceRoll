@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Preview
+
+<img src="assets/preview/home.png" height= 600>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -10,7 +10,7 @@ A new simple Flutter project with clean and optimal code.
 ### [Click me: Roll Dice](https://dice-roll-one-omega.vercel.app)
 
 
-## Getting Started
+## Getting Started.
 
 This project is a starting point for a Flutter application.
 
